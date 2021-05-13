@@ -1,3 +1,4 @@
+package solved;
 class findTheTownJudge {
     public int findJudge(int N, int[][] trust) {
         int[]  boom = new int[N];

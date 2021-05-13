@@ -1,3 +1,4 @@
+package solved;
 import java.util.*;
 public class Spydetected {
     public static void main(String[] args) {

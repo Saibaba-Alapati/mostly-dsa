@@ -1,3 +1,4 @@
+package solved;
 public class divideTwoIntegers {
     public int divide(int dividend, int divisor)
 	{   

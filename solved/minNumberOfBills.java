@@ -1,5 +1,5 @@
+package solved;
 import java.util.*;
-
 public class minNumberOfBills{
         public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

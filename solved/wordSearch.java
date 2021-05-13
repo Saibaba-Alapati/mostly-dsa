@@ -1,3 +1,4 @@
+package solved;
 import java.util.*;
 public class wordSearch {
     public boolean exist(char[][] board, String word) {
