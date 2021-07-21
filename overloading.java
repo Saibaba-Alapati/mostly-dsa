@@ -1,3 +1,4 @@
+// Type of Argument over loading
 class MultiplyFun{
     static int multiply(int a, int b){
         return a*b;
