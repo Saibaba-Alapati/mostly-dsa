@@ -1,4 +1,3 @@
-package solved;
 public class StrictlyIncreasing {
     public int minOperations(int[] nums) {
         int operations =0;

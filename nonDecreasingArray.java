@@ -1,5 +1,3 @@
-package solved;
-import java.util.*;
 public class nonDecreasingArray {
     public static boolean checkPossibility(int[] nums) {
         int counter = 0;

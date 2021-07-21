@@ -1,4 +1,3 @@
-package solved;
 import java.util.*;
 public class Averageheight {
     public static void main(String[] args) {

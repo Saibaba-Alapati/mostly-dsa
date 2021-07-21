@@ -1,4 +1,3 @@
-package solved;
 public class numOfPointInsideCircle {
     public int[] countPoints(int[][] points, int[][] queries) {
         int[] res = new int[queries.length];

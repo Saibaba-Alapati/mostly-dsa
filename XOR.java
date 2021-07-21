@@ -1,4 +1,3 @@
-package solved;
 import java.util.*;
 class XOR {
     public int[] getMaximumXor(int[] nums, int maximumBit) {

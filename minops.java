@@ -1,4 +1,3 @@
-package solved;
 import java.util.Scanner;
 
 class Solution

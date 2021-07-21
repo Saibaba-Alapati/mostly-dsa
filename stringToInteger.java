@@ -1,4 +1,3 @@
-package solved;
 import java.util.*;
 public class stringToInteger {
     public int myAtoi(String s) {
